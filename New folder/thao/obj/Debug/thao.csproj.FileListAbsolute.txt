@@ -1,0 +1,11 @@
+D:\visua studio\thao\thao\bin\Debug\thao.exe.config
+D:\visua studio\thao\thao\bin\Debug\thao.exe
+D:\visua studio\thao\thao\bin\Debug\thao.pdb
+D:\visua studio\thao\thao\obj\Debug\thao.csproj.AssemblyReference.cache
+D:\visua studio\thao\thao\obj\Debug\thao.csproj.SuggestedBindingRedirects.cache
+D:\visua studio\thao\thao\obj\Debug\thao.Form1.resources
+D:\visua studio\thao\thao\obj\Debug\thao.Properties.Resources.resources
+D:\visua studio\thao\thao\obj\Debug\thao.csproj.GenerateResource.cache
+D:\visua studio\thao\thao\obj\Debug\thao.csproj.CoreCompileInputs.cache
+D:\visua studio\thao\thao\obj\Debug\thao.exe
+D:\visua studio\thao\thao\obj\Debug\thao.pdb

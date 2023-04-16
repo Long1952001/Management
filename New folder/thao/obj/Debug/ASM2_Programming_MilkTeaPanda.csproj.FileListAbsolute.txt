@@ -1,0 +1,22 @@
+D:\visua studio\thao\thao\obj\Debug\ASM2_Programming_MilkTeaPanda.csproj.AssemblyReference.cache
+D:\visua studio\thao\thao\obj\Debug\ASM2_Programming_MilkTeaPanda.csproj.SuggestedBindingRedirects.cache
+D:\visua studio\thao\thao\obj\Debug\ASM2_Programming_MilkTeaPanda.Properties.Resources.resources
+D:\visua studio\thao\thao\obj\Debug\ASM2_Programming_MilkTeaPanda.csproj.GenerateResource.cache
+D:\visua studio\thao\thao\obj\Debug\ASM2_Programming_MilkTeaPanda.csproj.CoreCompileInputs.cache
+D:\visua studio\thao\thao\bin\Debug\ASM2_Programming_MilkTeaPanda.exe.config
+D:\visua studio\thao\thao\bin\Debug\ASM2_Programming_MilkTeaPanda.exe
+D:\visua studio\thao\thao\bin\Debug\ASM2_Programming_MilkTeaPanda.pdb
+D:\visua studio\thao\thao\obj\Debug\ASM2_Programming_MilkTeaPanda.exe
+D:\visua studio\thao\thao\obj\Debug\ASM2_Programming_MilkTeaPanda.pdb
+D:\visua studio\thao\thao\obj\Debug\ASM2_Programming_MilkTeaPanda.Form1.resources
+D:\GCC1001\1618 with Mr.Dung\MilkTea\thao\bin\Debug\ASM2_Programming_MilkTeaPanda.exe.config
+D:\GCC1001\1618 with Mr.Dung\MilkTea\thao\bin\Debug\ASM2_Programming_MilkTeaPanda.exe
+D:\GCC1001\1618 with Mr.Dung\MilkTea\thao\bin\Debug\ASM2_Programming_MilkTeaPanda.pdb
+D:\GCC1001\1618 with Mr.Dung\MilkTea\thao\obj\Debug\ASM2_Programming_MilkTeaPanda.csproj.AssemblyReference.cache
+D:\GCC1001\1618 with Mr.Dung\MilkTea\thao\obj\Debug\ASM2_Programming_MilkTeaPanda.csproj.SuggestedBindingRedirects.cache
+D:\GCC1001\1618 with Mr.Dung\MilkTea\thao\obj\Debug\ASM2_Programming_MilkTeaPanda.Form1.resources
+D:\GCC1001\1618 with Mr.Dung\MilkTea\thao\obj\Debug\ASM2_Programming_MilkTeaPanda.Properties.Resources.resources
+D:\GCC1001\1618 with Mr.Dung\MilkTea\thao\obj\Debug\ASM2_Programming_MilkTeaPanda.csproj.GenerateResource.cache
+D:\GCC1001\1618 with Mr.Dung\MilkTea\thao\obj\Debug\ASM2_Programming_MilkTeaPanda.csproj.CoreCompileInputs.cache
+D:\GCC1001\1618 with Mr.Dung\MilkTea\thao\obj\Debug\ASM2_Programming_MilkTeaPanda.exe
+D:\GCC1001\1618 with Mr.Dung\MilkTea\thao\obj\Debug\ASM2_Programming_MilkTeaPanda.pdb
